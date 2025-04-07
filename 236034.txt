@@ -1,0 +1,6 @@
+14. git checkout 2-find-all-completed-tasks 
+19. За сите issues: commit + push од IDE-то + create PR исто од IDE-to
+git checkout master
+git pull origin master
+git merge 1-remove-task-by-name
+23. git push origin master

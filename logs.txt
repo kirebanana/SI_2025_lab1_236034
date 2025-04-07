@@ -1,0 +1,15 @@
+* e8244b8 (HEAD -> master, origin/master, origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Implement removeTask() feature
+*   019afac Merge pull request #11 from kirebanana/4-sort-tasks-by-priority
+|\
+| * b0bc5f4 (origin/4-sort-tasks-by-priority, 4-sort-tasks-by-priority) Implement sortTasksByPriority() feature
+* |   33521be Merge pull request #10 from kirebanana/2-find-all-completed-tasks
+|\ \
+| |/
+|/|
+| * 0c0b921 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Implement getCompletedTasks() feature
+|/
+| * c996a4f (origin/6-find-the-highest-priority-unfinished-task) Implement getMostUrgentTasks() feature
+|/
+* aea2238 Add starter code
+* 9c30238 Initial commit
+
